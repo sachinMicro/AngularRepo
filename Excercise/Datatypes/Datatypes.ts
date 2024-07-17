@@ -1,4 +1,6 @@
 
+let num;
+
 let user: String = "Sachin";
 
 let numbers: Object = [10,20,20];
@@ -11,6 +13,8 @@ let randomStrings: any[]= [10,"sachin",false];
 let tupleExample : [String,number]= ["Sachin",20];
 //Compilation Error
 //let tupleExample : [String,number,String]= ["Sachin",20,false];
+
+console.log(num);
 
 console.log(user);
 

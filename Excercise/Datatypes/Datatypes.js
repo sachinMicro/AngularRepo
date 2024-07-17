@@ -1,3 +1,4 @@
+var num;
 var user = "Sachin";
 var numbers = [10, 20, 20];
 //Array is also a Object Type
@@ -7,6 +8,7 @@ var randomStrings = [10, "sachin", false];
 var tupleExample = ["Sachin", 20];
 //Compilation Error
 //let tupleExample : [String,number,String]= ["Sachin",20,false];
+console.log(num);
 console.log(user);
 console.log(numbers);
 console.log(marks);
