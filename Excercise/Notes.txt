@@ -1,0 +1,8 @@
+============
+Undefined
+==============
+Special Value in Js and its Data Type is Also "Undefined"
+
+var num;
+//at this point undefined value will be asigned to  this variable
+
